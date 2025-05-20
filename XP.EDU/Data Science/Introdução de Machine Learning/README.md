@@ -4,29 +4,19 @@ Este projeto tem como objetivo aplicar os conceitos iniciais de Machine Learning
 ⚠️ Atenção: O arquivo .csv utilizado originalmente neste projeto não está mais disponível, o que impede a execução completa do código. Ainda assim, o repositório pode ser útil como referência de estudo para quem está iniciando na área.
 
 🚀 Tecnologias e Bibliotecas Utilizadas
-Python 3.x
-
+Python
 Pandas
-
 NumPy
-
 Seaborn
-
 Plotly
-
 Scikit-learn (sklearn)
 
 📚 Objetivos de Aprendizado
 Durante o desenvolvimento deste projeto, foram praticados os seguintes tópicos:
-
 Leitura e tratamento de dados com pandas
-
 Análise exploratória com gráficos (Seaborn e Plotly)
-
 Separação de dados em treino e teste
-
 Aplicação de regressão linear com scikit-learn
-
 Avaliação de métricas (R², MAE, MSE)
 
 🎓 Contexto
@@ -37,5 +27,3 @@ O dataset original não está mais disponível no repositório devido à perda d
 
 Para rodar o projeto, você pode adaptar o código a um dataset público com estrutura semelhante (por exemplo, datasets de preços de imóveis, consumo de energia, etc.).
 
-📄 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.

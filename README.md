@@ -8,6 +8,8 @@ Este repositório reúne alguns dos meus **exercícios na área de Dados**, incl
 * Exercícios de laboratórios guiados
 * Projetos Práticos autorais para treino
 
+explorei tecnologias variadas utilizadas como Python, SQL entre outras
+
 Meu objetivo aqui é construir um portfólio técnico com base no que estou aprendendo para exercitar e documentar meus conhecimentos.
 
 ## 📁 Organização dos Arquivos

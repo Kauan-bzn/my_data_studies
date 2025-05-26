@@ -1,8 +1,6 @@
-# 🤖 Estudos de Machine Learning – Curso Intro Kaggle
+# 🤖 Estudos de Machine Learning no Kaggle
 
-Este diretório reúne meus estudos do curso **"Intro to Machine Learning"** da plataforma [Kaggle Learn](https://www.kaggle.com/learn), voltado para iniciantes que desejam entender os fundamentos de ML com Python.
-
-## 📚 Curso Estudado
+Este diretório reúne meus estudos de Machine Learning na plataforma [Kaggle Learn](https://www.kaggle.com/learn).
 
 ### 📌 Intro to Machine Learning
 Curso introdutório com foco em conceitos básicos e aplicação prática de modelos supervisionados para problemas de regressão. Os principais tópicos abordados incluem:

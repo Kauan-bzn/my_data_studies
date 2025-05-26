@@ -1,8 +1,6 @@
-# 🧮 Estudos de SQL – Curso Intro Kaggle
+# 🧮 Estudos de SQL no Kaggle
 
-Este diretório reúne meus estudos do curso **"Intro to SQL"** da plataforma [Kaggle Learn](https://www.kaggle.com/learn), focado na introdução à linguagem SQL para análise de dados.
-
-## 📚 Curso Estudado
+Este diretório reúne meus estudos sobre SQL da plataforma [Kaggle Learn](https://www.kaggle.com/learn).
 
 ### 📌 Intro to SQL
 Curso introdutório com foco em consultas SQL aplicadas a bancos de dados reais com o BigQuery. Os principais tópicos abordados incluem:

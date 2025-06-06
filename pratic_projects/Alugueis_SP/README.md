@@ -6,13 +6,13 @@
 
 ## 📌 Objetivo
 
-Este é meu primeiro projeto autoral de dados. O objetivo é identificar os fatores que mais influenciam o valor do aluguel de um imóvel na cidade de São Paulo, utilizando análise exploratória, engenharia de atributos e modelos de regressão para obter insights e visualizações claras.
+Este é meu primeiro projeto autoral de dados. O objetivo é identificar os fatores que mais influenciam o custo do m² do aluguel de um imóvel na cidade de São Paulo, utilizando análise exploratória, engenharia de atributos e modelos de regressão para obter insights e visualizações claras.
 
 ---
 
 ## 📊 Dataset
 
-- **Fonte**: [São Paulo Housing Prices Dataset - Kaggle](https://www.kaggle.com/)
+- **Fonte**: [São Paulo Housing Prices Dataset - Kaggle](https://www.kaggle.com/) -> webscraping do Quinto Andar
 - **Atributos principais**:
   - `rent`, `total` – valor do aluguel
   - `area` – metragem do imóvel

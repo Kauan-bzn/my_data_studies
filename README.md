@@ -1,26 +1,33 @@
-# 📊 Meus Estudos de Dados
+# 📊 My Data Studies
 
-Seja bem-vindo(a)!
+This repository gathers some of my **exercises in the Data field**, including:
 
-Este repositório reúne alguns dos meus **exercícios na área de Dados**, incluindo:
+  * Solved exercises from **courses and learning paths**
+  * Exercises from **guided labs**
+  * **Original practical projects** for practice and personal use
 
-* Exercícios resolvidos de cursos e trilhas de aprendizado
-* Exercícios de laboratórios guiados
-* Projetos Práticos autorais para treino
+I've explored various technologies such as <code>Python</code>, <code>SQL</code>, <code>PowerBI</code>, <code>Excel</code> among others.
 
-explorei tecnologias variadas utilizadas como Python, SQL entre outras
+My goal here is to build a **technical portfolio** based on what I'm learning to practice and document my knowledge.
 
-Meu objetivo aqui é construir um portfólio técnico com base no que estou aprendendo para exercitar e documentar meus conhecimentos.
+**Note: some directories are in Portuguese because the referenced project was made when I still didn't have the confidence to write in English.**
 
-## 📁 Organização dos Arquivos
+## 📁 File Organization
 
-* Cada diretório corresponde a origem dos exercícios.
-* Cada diretório possui um README.md explicando um pouco de seu conteúdo
+  * Each directory corresponds to the origin (project) of the files.
+  * Each directory has a README.md explaining a bit about its content.
 
-Sinta-se à vontade para explorar e acompanhar minha evolução! 🚀
+Feel free to explore and follow my progress\! 🚀
 
 ## 📌 Status
-Em constante atualização — acompanhe meu progresso!
 
-## 🤝 Contribuições
-Este é um repositório pessoal de estudo, mas feedbacks e sugestões são sempre bem-vindos!
+Constantly updated — follow my progress\!
+
+## 🤝 Contributions
+
+This is a personal study repository, but feedback and suggestions are always welcome\!
+
+## 📞 Contact
+
+[](https://www.linkedin.com/in/kauanbuzone/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanbuzone/)

@@ -1,22 +1,21 @@
-# 🧮 Estudos de SQL no Kaggle
+# 🧮 SQL Studies on Kaggle
 
-Este diretório reúne meus estudos sobre SQL da plataforma [Kaggle Learn](https://www.kaggle.com/learn).
+This directory gathers my SQL studies from the [Kaggle Learn](https://www.kaggle.com/learn) platform.
 
 ### 📌 Intro to SQL
-Curso introdutório com foco em consultas SQL aplicadas a bancos de dados reais com o BigQuery. Os principais tópicos abordados incluem:
-- Sintaxe básica de SQL (`SELECT`, `FROM`, `WHERE`)
-- Filtros e condições (`AND`, `OR`, `IN`, `BETWEEN`)
-- Ordenação e agregações (`ORDER BY`, `GROUP BY`, `COUNT`, `SUM`, etc.)
-- Subconsultas
-- Joins entre tabelas
-- Funções de janela (window functions)
-- Controle de NULLs
+An introductory course focusing on SQL queries applied to real databases with BigQuery. The main topics covered include:
+* Basic SQL syntax (`SELECT`, `FROM`, `WHERE`)
+* Filters and conditions (`AND`, `OR`, `IN`, `BETWEEN`)
+* Ordering and aggregations (`ORDER BY`, `GROUP BY`, `COUNT`, `SUM`, etc.)
+* Subqueries
+* Table Joins
+* Window functions
+* NULL handling
 
-## 🛠️ Tecnologias Utilizadas
-- SQL
-- Google BigQuery (ambiente utilizado no Kaggle)
-- Interface do Kaggle Notebooks
+## 🛠️ Technologies Used
+* SQL
+* Google BigQuery (environment used on Kaggle)
+* Kaggle Notebooks interface
 
-## 📁 Organização dos Arquivos
-Cada notebook corresponde a um módulo ou exercício prático do curso:
-
+## 📁 File Organization
+Each notebook corresponds to a module or practical exercise from the course.

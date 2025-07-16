@@ -1,21 +1,20 @@
-# 🤖 Estudos de Machine Learning no Kaggle
+# 🤖 Machine Learning Studies on Kaggle
 
-Este diretório reúne meus estudos de Machine Learning na plataforma [Kaggle Learn](https://www.kaggle.com/learn).
+This directory contains my Machine Learning studies from the [Kaggle Learn](https://www.kaggle.com/learn) platform.
 
 ### 📌 Intro to Machine Learning
-Curso introdutório com foco em conceitos básicos e aplicação prática de modelos supervisionados para problemas de regressão. Os principais tópicos abordados incluem:
-- O que é Machine Learning
-- Modelos de árvore de decisão
-- Erro absoluto médio (MAE)
-- Underfitting vs Overfitting
-- Validação de modelos (dados de treino e validação)
-- Random Forests
+An introductory course focusing on basic concepts and practical application of supervised models for regression problems. The main topics covered include:
+* What is Machine Learning
+* Decision Tree Models
+* Mean Absolute Error (MAE)
+* Underfitting vs. Overfitting
+* Model Validation (training and validation data)
+* Random Forests
 
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
-- Python
-- Pandas
-- Scikit-learn (`sklearn`)
+## 🛠️ Technologies and Libraries Used
+* Python
+* Pandas
+* Scikit-learn (`sklearn`)
 
-## 📁 Organização dos Arquivos
-Cada notebook corresponde a um módulo ou exercício prático do curso:
-
+## 📁 File Organization
+Each notebook corresponds to a module or practical exercise from the course.

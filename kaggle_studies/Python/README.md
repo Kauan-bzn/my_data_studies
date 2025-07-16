@@ -1,31 +1,31 @@
-# 🐍 Estudos de Python – Cursos Kaggle
+# 🐍 Python Studies – Kaggle Courses
 
-Este diretório reúne meus estudos realizados nos cursos introdutórios da plataforma [Kaggle Learn](https://www.kaggle.com/learn), com foco em programação Python aplicada à Ciência de Dados.
+This directory gathers my studies from the introductory courses on the [Kaggle Learn](https://www.kaggle.com/learn) platform, focusing on Python programming applied to Data Science.
 
-## 📚 Cursos Estudados
+## 📚 Courses Studied
 
 ### 1. 🧠 Intro to Programming
-Curso introdutório para quem está começando do zero. Abrange:
-- Variáveis e tipos de dados
-- Condicionais (`if`, `else`)
-- Loops (`for`, `while`)
-- Funções básicas
+Introductory course for beginners. Covers:
+* Variables and data types
+* Conditionals (`if`, `else`)
+* Loops (`for`, `while`)
+* Basic functions
 
 ### 2. 🐍 Python
-Curso com foco na sintaxe prática da linguagem Python, voltado para ciência de dados:
-- Listas, dicionários e tuplas
-- Funções e argumentos
-- Manipulação de strings
-- Controle de fluxo
-- Compreensão de listas
+Course focused on the practical syntax of the Python language, aimed at data science:
+* Lists, dictionaries, and tuples
+* Functions and arguments
+* String manipulation
+* Flow control
+* List comprehensions
 
 ### 3. 📊 Pandas
-Curso voltado ao uso da biblioteca `pandas`, essencial para análise de dados:
-- Leitura de arquivos CSV
-- Seleção e filtragem de dados
-- Agrupamentos e ordenações
-- Manipulação de colunas
-- Tratamento de dados ausentes
+Course focused on using the `pandas` library, essential for data analysis:
+* Reading CSV files
+* Data selection and filtering
+* Grouping and sorting
+* Column manipulation
+* Handling missing data
 
-## 📁 Organização
-Cada notebook neste diretório corresponde a um módulo ou exercício prático de cada curso.
+## 📁 Organization
+Each notebook in this directory corresponds to a module or practical exercise from each course.

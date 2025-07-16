@@ -1,51 +1,39 @@
 # 🚢 Titanic - Machine Learning from Disaster
+This project was developed as part of Kaggle's introductory competition: Titanic - Machine Learning from Disaster, aimed at those starting in the fields of data science and machine learning.
 
-Este projeto foi desenvolvido como parte da competição introdutória do Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic), voltada para quem está começando na área de ciência de dados e machine learning.
+## 🎯 Objective
+To predict the survival of Titanic passengers based on data such as age, gender, cabin class, number of family members on board, among others.
 
-## 🎯 Objetivo
+## 📂 Project Content
+* Datasets
+* Jupyter Notebook
+* Submission to Kaggle
 
-Prever a sobrevivência dos passageiros do Titanic com base em dados como idade, sexo, classe da cabine, número de familiares a bordo, entre outros.
+## 🚀 Technologies and Libraries Used
+* Python
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+* Scikit-learn (sklearn)
 
-## 📂 Conteúdo do Projeto
-- Datasets
-- Jupyter Notebook
-- Submissão ao Kaggle
+## 🧠 Models Tested
+Random Forest
 
-## 🚀 Tecnologias e Bibliotecas Utilizadas
+## 📊 Evaluation Metric
+Accuracy on the test data provided by Kaggle
 
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Matplotlib  
-- Scikit-learn (sklearn)
+## 🎓 Learnings
+* During the project, fundamental concepts were practiced, such as:
+* Reading and treating real data
+* Creating simple ML pipelines
+* Selecting and comparing algorithms
+* Submitting predictions for external evaluation
 
-## 🧠 Modelos Testados
+## 🎯 Performance
 
-- Random Forest  
+* 📁 The submission.csv file contains the predictions generated based on the chosen features.
 
-## 📊 Métrica de Avaliação
+*  🟦 Public Accuracy: 0.77511
 
-- **Accuracy** sobre os dados de teste fornecidos pelo Kaggle
-
-## 🎓 Aprendizados
-
-Durante o projeto, foram praticados conceitos fundamentais como:
-
-- Leitura e tratamento de dados reais
-- Criação de pipelines simples de ML
-- Seleção e comparação de algoritmos
-- Submissão de predições para avaliação externa
-
-## 🎯 Desempenho
-
-📁 O arquivo `submission.csv` contém as previsões geradas com base nas features escolhidas.
-
-📈 A pontuação obtida no desafio Titanic do Kaggle foi:
-
-> **🟦 Acurácia Pública: 0.77511**
-
-Esses resultados podem ser verificados pela submissão pública no site oficial do desafio.
-
-![image](https://github.com/user-attachments/assets/e457fac4-0b42-468d-9597-706e60406eb6)
-
+These results can be verified by the public submission on the official challenge website.

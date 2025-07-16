@@ -1,15 +1,15 @@
-# 📊 Previsão de Precificação de Imóveis
+# 📊 Real Estate Price Prediction
 
-## 🚀 Tecnologias e Bibliotecas Utilizadas
+## 🚀 Technologies and Libraries Used
 
-- Python  
-- Pandas  
-- Scikit-learn (sklearn)  
+* Python
+* Pandas
+* Scikit-learn (sklearn)
 
-## 📚 Objetivos de Aprendizado
+## 📚 Learning Objectives
 
-Durante o desenvolvimento deste projeto, foi configurado um modelo de machine learning utilizando **Random Forest** para prever a **precificação de imóveis** com base nas características dos dados.
+During the development of this project, a machine learning model using **Random Forest** was configured to predict **real estate pricing** based on data characteristics.
 
-## 🎓 Contexto
+## 🎓 Context
 
-Este projeto foi desenvolvido como parte do **Curso de Introdução a Machine Learning** da plataforma **Kaggle**.
+This project was developed as part of the **Introduction to Machine Learning Course** on the **Kaggle** platform.

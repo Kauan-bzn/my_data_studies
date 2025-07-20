@@ -1,6 +1,6 @@
 # 📊 My Data Studies
 
-This repository gathers some of my **exercises in the Data field**, including:
+This repository is my first one and gathers some of my **exercises in the Data field**, including:
 
   * Solved exercises from **courses and learning paths**
   * Exercises from **guided labs**
